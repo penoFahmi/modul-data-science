@@ -1,0 +1,29 @@
+{
+  "nama": "Sari Dewi",
+  "umur": 20,
+  "jurusan": "Informatika",
+  "alamat": {
+    "jalan": "Jl. Merdeka No. 45",
+    "kota": "Pontianak",
+    "kode_pos": "78121"
+  },
+  "hobi": ["membaca", "coding", "travelling", "fotografi", "sepak bola", "menulis"],
+  "nilai": [
+    {
+      "nama": "Data Science",
+      "skor": 85
+    },
+    {
+      "nama": "Pemrograman Python",
+      "skor": 90
+    },
+    {
+      "nama": "Database",
+      "skor": 78
+    }
+  ],
+  "ttl":{
+    "tempat":"Pontianak",
+    "tanggal":"8 Oktober 2000"
+  }
+}

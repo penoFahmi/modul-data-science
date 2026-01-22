@@ -58,7 +58,7 @@ for idx, n in enumerate(sample_sizes):
     print(f"  Teoritis std dev: {np.std(populasi) / np.sqrt(n):.2f}")
 
 plt.tight_layout()
-plt.savefig('../figs/clt_demo.png', dpi=300, bbox_inches='tight')
+plt.savefig('figs/clt_demo.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 print("\n" + "=" * 60)

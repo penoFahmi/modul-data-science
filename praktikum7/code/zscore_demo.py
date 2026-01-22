@@ -80,7 +80,7 @@ plt.title('Z-scores')
 plt.grid(alpha=0.3)
 
 plt.tight_layout()
-plt.savefig('../figs/zscore_demo.png', dpi=300, bbox_inches='tight')
+plt.savefig('figs/zscore_demo.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 print("\nGambar disimpan: figs/zscore_demo.png")

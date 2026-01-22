@@ -95,7 +95,7 @@ plt.legend(loc='lower right', fontsize=8)
 plt.grid(alpha=0.3, axis='x')
 
 plt.tight_layout()
-plt.savefig('../figs/confidence_interval.png', dpi=300, bbox_inches='tight')
+plt.savefig('figs/confidence_interval.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 print("\nGambar disimpan: figs/confidence_interval.png")
